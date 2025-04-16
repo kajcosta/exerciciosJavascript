@@ -2,4 +2,4 @@
 
 let c =  Number(prompt("Qual a temperatura em celcius"))
 let f = (9*c+160)/5
-document.write(`A temperatura em Fahrenheit é ${area.toFixed(2)}`)
+document.write(`A temperatura em Fahrenheit é ${f.toFixed(2)}`)
